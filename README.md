@@ -14,9 +14,9 @@ No es necesaria ninguna dependecia, unicamente del IDE que corra C
 
 Problema: El colegio Ubentu necesita automatizar el proceso ed conteo t categorizacion de estudiantes, para lo cual, es necesario implementar un sofware que inicialmente solicite la cantidad de estudiantes que se van a evaluar, posteriormente se debe de ingresar el nivel al que pertenece el estudiante, su nombre y numero de identificacion, para lo cual se debe tener en cuenta los siguientes niveles:
 
-*Primaria
-*Basica Media
-*Basica Superior
+- *Primaria
+- *Basica Media
+- *Basica Superior
 
 En consecuencia, se debe de llevar un registro de cuantos estudiantes pertenecen a cada categoria y calcular cual es el procentaje de cada una de estas frente al total de estudiantes registrados.
 Adicionalmente, se debe mostrar un consolidado con los nombres de todos los estudiantes resgistrados, su numero de identifiacion y el nivel al que pertenecen.
